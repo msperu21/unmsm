@@ -1,2 +1,2 @@
 # unmsm
-UNMSM - Centro de Producción de Soluciones y Servicios TI
+UNMSM - Fac. Ing. Sistemas e Informática
